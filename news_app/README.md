@@ -12,4 +12,4 @@ A new Flutter project.
 
 This project is using UI/UX picked from behance by Umi Babakishiyeva
 
-[News App UI/Ux](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9fdad4102996435.5f43abec860f4.jpg)
+[News App UI/Ux](https://www.behance.net/gallery/102996435/News-App-Design)
