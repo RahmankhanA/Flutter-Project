@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:news_app/app/core/constant/color_constant.dart';
 import 'package:news_app/app/core/signup/screens/signup_screen.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.redAccent),
+        colorScheme: ColorScheme.fromSeed(seedColor: ColorConstant.primaryColor),
         useMaterial3: true,
       ),
       themeMode: ThemeMode.dark,
